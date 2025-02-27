@@ -5,7 +5,7 @@
 He is an algorithm engineer at a retail company.
 
 #### Email
-55457969[at]qq.com
+shenming807[at]gmail.com
 
 #### Education
 Msc., Statistics, University of Glasgow, 2021—2022.\
