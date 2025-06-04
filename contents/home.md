@@ -12,5 +12,5 @@ Msc., Statistics, University of Glasgow, 2021—2022.\
 B.E., Mathematics and Applied Mathematics , Zhejiang University of Finance and Economics, 2015—2019.
 
 #### Research Interests
-Machine Learning, Deep Learning, A4Sci.
+Machine Learning, Deep Learning, AI4Sci.
 
