@@ -1,6 +1,6 @@
 
 
-[![LoveFishO](https://img.shields.io/badge/senli1073-github-blue?logo=github)]([https://github.com/senli1073](https://github.com/LoveFishoO))
+[![LoveFishO](https://img.shields.io/badge/LoveFishoO-github-blue)](https://github.com/LoveFishoO)
 
 He is an algorithm engineer at a retail company.
 
